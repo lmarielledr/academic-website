@@ -20,11 +20,11 @@ subtitle = ""
   name = "R"
   description = ""
   
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = ""
+#[[feature]]
+#  icon = "python"
+#  icon_pack = "fab"
+#  name = "Python"
+#  description = ""
 
  
 [[feature]]
@@ -33,11 +33,11 @@ subtitle = ""
   name = "Statistics"
   description = ""  
 
-[[feature]]
-  icon = "eye"
-  icon_pack = "fas"
-  name = "Eye tracking"
-  description = ""
+#[[feature]]
+#  icon = "eye"
+#  icon_pack = "fas"
+#  name = "Eye tracking"
+#  description = ""
 
 [[feature]]
   icon = "brain"
