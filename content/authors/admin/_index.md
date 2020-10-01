@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Provost Postdoctoral Fellow at Penn working in Dr. Allyson Mackey's Chanhing Brain Lab. My research focuses on how early experiences shape neurocognitive development. A primary goal of this work is to understand how to best create environments that foster optimal child development and learning, and inform policies that support these efforts.
+I am a Provost Postdoctoral Fellow at Penn working in Dr. Allyson Mackey's Changing Brain Lab. My research focuses on how early experiences shape neurocognitive development. A primary goal of this work is to understand how to best create environments that foster optimal child development and learning, and inform policies that support these efforts.
