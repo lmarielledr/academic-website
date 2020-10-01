@@ -30,7 +30,7 @@ education:
   - course: PhD in Psychology
     institution: University of East Anglia
     year: 2020
-  - course: MA in Psychology, Developmental Science
+  - course: MA in Psychology, focus in Developmental Science
     institution: University of Iowa
     year: 2015
   - course: NIH Postbaccalaureate Research and Education Program
